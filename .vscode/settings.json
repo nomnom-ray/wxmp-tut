@@ -1,0 +1,13 @@
+{
+    "eslint.enable": true,
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/**": true,
+        "**/server/node_modules/**": true,
+        "**/build/**": true,
+        "**/dist/**": true,
+        "**/config/**": true,
+        "**/static/**": true
+    }
+}
